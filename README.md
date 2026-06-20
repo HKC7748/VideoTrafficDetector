@@ -36,7 +36,7 @@
 
 ## 环境要求
 
-- Python 3.10 及以上
+- Python 3.11 及以上
 - 操作系统：Windows / macOS / Linux
 - 硬件：建议配备 NVIDIA GPU（CUDA 加速），CPU 也可运行但速度较慢
 
