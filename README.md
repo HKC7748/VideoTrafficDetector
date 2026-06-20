@@ -165,7 +165,7 @@ https://www.bilibili.com/video/BV1A8j76eEby/
 
 请确保模型文件放置在 `./Model/` 目录下，并在配置界面正确选择了路径。
 
-### Q2: 视频播放很卡或检测速度慢
+### Q2: 检测速度慢
 
 使用 GPU 版本的 PyTorch/CUDA 加速。 
 使用更轻量的模型（如 `yolov8n.pt`）。
