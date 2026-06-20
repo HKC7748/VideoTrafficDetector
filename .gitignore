@@ -1,6 +1,7 @@
 venv/
-Model/
-Resource/*.mp4
 .idea/
+Model/*.pt
+Resource/*.mp4
+
 Configure/*.json
 Data/*.csv
